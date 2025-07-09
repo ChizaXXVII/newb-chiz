@@ -1,16 +1,16 @@
-name = "Newb Chiz"
-version = [0, 4, 5]
+name = "Newb Glow"
+version = [0, 8, 0]
 min_supported_mc_version = [1, 21, 20]
 description = '''
 §c%w
 §7- An enchanced vanilla shader for Minecraft!
 %v
-§3https://devendrn.github.io/newb-shader/
+§3https://discord.gg/VQT3hQB9Ey
 ''' # %w = patch warning, %v = version
-authors = ["xXchizaXx","devendrn"]
-url = "https://devendrn.github.io/newb-shader/"
-uuid = "95f774cf-4afa-73e7-a21a-72146307b1d2" # Use https://www.uuidgenerator.net/version4
-materials = ["Sky", "RenderChunk", "Actor", "ActorGlint", "EndSky", "Clouds", "SunMoon", "Weather", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint", "Stars"]
+authors = ["×XchizaX×", "devendrn"]
+url = "https://discord.gg/VQT3hQB9Ey"
+uuid = "debe30f7-26c3-4522-bd6b-4df6e29810d4" # Use https://www.uuidgenerator.net/version4
+materials = ["Sky", "RenderChunk", "Actor", "Clouds", "SunMoon", "Weather", "ItemInHandTextured", "ItemInHandColor", "ItemInHandColorGlint", "Stars"]
 
 [info] 
 copyright = '''
@@ -29,8 +29,42 @@ credits = '''
 # right-most subpack is enabled by default
 
 [[subpack]]
+define = "PPL"
+materials = []
+description = '''Pixel Perfection Legacy'''
+
+[[subpack]]
+define = "MULTIPIXEL"
+materials = []
+description = '''Multipixel'''
+
+[[subpack]]
+define = "FAITHFUL64"
+materials = []
+description = '''Faithful x64'''
+
+[[subpack]]
+define = "FAITFUL32"
+materials = []
+description = '''Faithful x32'''
+
+[[subpack]]
+define = "EASYBLOCKS"
+materials = []
+description = '''EasyBlocks'''
+
+[[subpack]]
+define = "DANDELION"
+materials = []
+description = '''Dandelion'''
+
+[[subpack]]
+define = "BAREBONES"
+materials = []
+description = '''BareBones'''
+
+[[subpack]]
 define = "DEFAULT"
 materials = []
-description = '''
-Default
-'''
+description = '''Minecraft'''
+
