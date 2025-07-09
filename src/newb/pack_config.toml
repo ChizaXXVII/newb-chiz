@@ -3,7 +3,7 @@ version = [0, 8, 0]
 min_supported_mc_version = [1, 21, 20]
 description = '''
 §c%w
-§7- An enchanced vanilla shader for Minecraft!
+§7-An enchanced vanilla shader for Minecraft!
 %v
 §3https://discord.gg/VQT3hQB9Ey
 ''' # %w = patch warning, %v = version
